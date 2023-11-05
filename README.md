@@ -4,7 +4,9 @@ This project contains a tidy dataset of 2019 Tamil Nadu Gram Panchayat Elections
 
 ## Introduction
 
-Tamil Nadu Gram Panchayat (GP) President Election data for the year 2019 was released in Tamil language.
+Tamil Nadu Gram Panchayat (GP) President Election data for the year 2019 was released in Tamil language. 
+The data can be found here : https://tnsec.tn.nic.in/tnsec_upload/results/rlbe2019/vpp.html
+The unicode font in the pdfs are outdated, luckily I know the language!
 I have extracted data from the pdfs and manually spell checked the GP names in order to match with other government datasets.
 The dataset consists of both location names in both tamil and english (as per the State government and Central government spellings)
 Candidate names and their husband's/father's name was dropped. 
@@ -20,10 +22,9 @@ Regional codes will help you merge with other administrative datasets seamlessly
 
 This is my first time doing this, so let me know if anything can be improved!
 
-## License
+## Software
 
-Mention the project's license and include a link to the license file if applicable.
+The data was cleaned with a mix of softwares including R and Stata 17.
 
-## Acknowledgments
 
-Give credit to any libraries, tools, or people who have contributed to your project.
+
