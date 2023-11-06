@@ -21,6 +21,7 @@ Regional codes will help you merge with other administrative datasets seamlessly
 ## Contributing
 
 This is my first time doing this, so let me know if anything can be improved!
+If you do use this dataset, I would really appreciate if you could let me know how it came of help 
 
 ## Software
 
