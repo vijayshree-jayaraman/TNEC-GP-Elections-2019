@@ -18,6 +18,13 @@ Information on whether the GP was reserved for women / SC / ST would be particul
 Regional codes will help you merge with other administrative datasets seamlessly :) <br>
 
 
+## Dataset
+You can find a data map of the data sources utilized to clean and merge this particular dataset. <br>
+The text in pink circles highlights the variable that was used to merge and the white box indicates the dataset and its source. 
+
+![image](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/5f60abd3-7b4c-4054-b29c-f1f2074433e5)
+
+
 ## Contributing
 
 This is my first time doing this, so let me know if anything can be improved! <br>
