@@ -28,7 +28,7 @@ The text in pink circles highlights the variable that was used to merge and the 
 ## Contributing
 
 This is my first time doing this, so let me know if anything can be improved! <br>
-If you do use this dataset, I would really appreciate if you could let me know how it came of help <br>
+If you do use this dataset, I would really appreciate if you could let me know how it came of help with a mail to jvijayshree26@gmail.com <br>
 
 ## Software
 
