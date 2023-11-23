@@ -19,13 +19,13 @@ Regional codes will help you merge with other administrative datasets seamlessly
 
 I would appreciate if you could cite the use of this dataset. A suggested citation would be ;
 
-@misc{Jayaraman2023,
-  author = {Vijayshree Jayaraman},
-  title = {TNEC-GP-Elections-2019 Dataset},
-  year = {2023},
-  howpublished = {\url{https://github.com/vijayshreecon/TNEC-GP-Elections-2019}},
+@misc{Jayaraman2023, <br>
+  author = {Vijayshree Jayaraman}, <br>
+  title = {TNEC-GP-Elections-2019 Dataset}, <br>
+  year = {2023}, <br>
+  howpublished = {\url{https://github.com/vijayshreecon/TNEC-GP-Elections-2019}}, <br>
   note = {Dataset containing information on the 2019 Tamil Nadu Gram Panchayat Elections, including GP codes, LGD codes, Census 2011 regional codes, and shrugid2.},
-  institution = {Azim Premji University}
+  institution = {Azim Premji University} <br>
 }
 
 ## Dataset
