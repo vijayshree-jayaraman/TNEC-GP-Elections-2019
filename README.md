@@ -17,6 +17,16 @@ This data can be used to understand gram panchayats of Tamil Nadu when merged wi
 Information on whether the GP was reserved for women / SC / ST would be particularly of use. <br>
 Regional codes will help you merge with other administrative datasets seamlessly :) <br>
 
+I would appreciate if you could cite the use of this dataset. A suggested citation would be ;
+
+@misc{Jayaraman2023,
+  author = {Vijayshree Jayaraman},
+  title = {TNEC-GP-Elections-2019 Dataset},
+  year = {2023},
+  howpublished = {\url{https://github.com/vijayshreecon/TNEC-GP-Elections-2019}},
+  note = {Dataset containing information on the 2019 Tamil Nadu Gram Panchayat Elections, including GP codes, LGD codes, Census 2011 regional codes, and shrugid2.},
+  institution = {Azim Premji University}
+}
 
 ## Dataset
 You can find a data map of the data sources utilized to clean and merge this particular dataset. <br>
