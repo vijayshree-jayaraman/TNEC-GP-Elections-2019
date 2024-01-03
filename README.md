@@ -30,10 +30,9 @@ I would appreciate if you could cite the use of this dataset. A suggested citati
 
 ## Dataset
 You can find a data map of the data sources utilized to clean and merge this particular dataset. <br>
-The text in pink circles highlights the variable that was used to merge and the white box indicates the dataset and its source. 
+The text in white circles highlights the variable that was used to merge and the white box indicates the dataset and its source. The faded region indicates the work I am yet to do.
 
-![image](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/5f60abd3-7b4c-4054-b29c-f1f2074433e5)
-
+![GP Data map](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/6d03a2c3-7e01-4ee3-906b-d6112bac56d0)
 
 ## Contributing
 
