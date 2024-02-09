@@ -11,6 +11,7 @@ I have extracted data from the pdfs and manually spell checked the GP names in o
 The dataset consists of both location names in both tamil and english (as per the State government and Central government spellings) <br>
 Candidate names and their husband's/father's name was dropped. <br>
 
+![GP thesis](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/4fbdff9d-bcf8-44d2-81a8-58c3d5c1a5e0)
 
 ## Usage
 This data can be used to understand gram panchayats of Tamil Nadu when merged with other public good datasets available at the Village or/and Gram Panchayat level. <br>
@@ -32,7 +33,7 @@ I would appreciate if you could cite the use of this dataset. A suggested citati
 You can find a data map of the data sources utilized to clean and merge this particular dataset. <br>
 The text in white circles highlights the variable that was used to merge and the white box indicates the dataset and its source. The faded region indicates the work I am yet to do.
 
-![GP Data map](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/6d03a2c3-7e01-4ee3-906b-d6112bac56d0)
+![GP thesis](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/4fbdff9d-bcf8-44d2-81a8-58c3d5c1a5e0)
 
 ## Contributing
 
