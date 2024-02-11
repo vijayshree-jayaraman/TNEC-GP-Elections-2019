@@ -9,9 +9,9 @@ The data can be found here : https://tnsec.tn.nic.in/tnsec_upload/results/rlbe20
 The unicode font in the pdfs are outdated, luckily I know the language! 🌸 <br>
 I have extracted data from the pdfs and manually spell checked the GP names in order to match with other government datasets. <br>
 The dataset consists of both location names in both tamil and english (as per the State government and Central government spellings) <br>
-Candidate names and their husband's/father's name was dropped. <br>
+Candidate names and their husband's/father's name were dropped. <br>
 
-![GP thesis](https://github.com/vijayshreecon/TNEC-GP-Elections-2019/assets/149927027/4fbdff9d-bcf8-44d2-81a8-58c3d5c1a5e0)
+
 
 ## Usage
 This data can be used to understand gram panchayats of Tamil Nadu when merged with other public good datasets available at the Village or/and Gram Panchayat level. <br>
