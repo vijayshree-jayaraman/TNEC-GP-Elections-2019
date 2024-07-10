@@ -1,6 +1,6 @@
 # TNEC-GP-Elections-2019 🏆
 
-This project contains a tidy dataset of 2019 Tamil Nadu Gram Panchayat Elections with GP codes, LGD codes, Census 2011 regional codes and shrugid2
+This project contains a tidy dataset of 2019 Tamil Nadu Gram Panchayat Elections with GP codes, LGD codes, Census 2011 regional codes for villages. 
 
 ## Introduction
 
@@ -18,7 +18,10 @@ This data can be used to understand gram panchayats of Tamil Nadu when merged wi
 Information on whether the GP was reserved for women / SC / ST would be particularly of use. <br>
 Regional codes will help you merge with other administrative datasets seamlessly :) <br>
 
-I would appreciate if you could cite the use of this dataset. A suggested citation would be ;
+If you want to compile the election data to pc11 population census. I suggest, you use the lgd code file to match with the antyodaya file at the village level. 
+From the LGD code, the best way to get to shrid, is to match with the PC 11 Rural Village Keys from SHRUG which will have shrid2 mapped to villages. 
+
+I would appreciate if you could cite the use of this dataset because it took a lot of work to get here. A suggested citation would be ;
 
 @misc{Jayaraman2023, <br>
   author = {Vijayshree Jayaraman}, <br>
